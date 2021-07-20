@@ -1,0 +1,47 @@
+.container{
+    background-color: gray;
+    position: absolute;
+    
+}
+#about{
+    text-align: center;
+    background-image: url(./assets/images.jpg);
+}
+#skills{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: gray;
+
+}
+h1{
+    text-align: center;
+    background: #0d6efd;
+}
+#portfolio{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: gray;
+}
+footer{
+    background: black;
+    height: 70px;
+}
+.redesocial{
+    width: 35px;
+}
+.x{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#y{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap:wrap ;
+    color: white;
+}
